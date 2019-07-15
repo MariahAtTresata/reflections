@@ -1,0 +1,3 @@
+How might using version control make you more confident to make changes that could break something?
+
+By commiting each change, we can easily git rid of mistakes and find errors in the code.
